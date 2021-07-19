@@ -43,5 +43,6 @@ class sender:
 
 # Test some stuff
 obj = sender()
+obj.get_data('leverOutFood')
 print(obj.commands)
 
